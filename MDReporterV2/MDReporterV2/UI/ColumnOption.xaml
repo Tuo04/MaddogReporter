@@ -1,0 +1,8 @@
+﻿<Window x:Class="MDReporterV2.UI.ColumnOption"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Column Option" Height="497" Width="455">
+    <Grid>
+        
+    </Grid>
+</Window>
